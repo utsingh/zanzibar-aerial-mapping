@@ -137,3 +137,5 @@ https://competitions.codalab.org/competitions/20100#learn_the_details
 - [x] prediction thresholding and clean-up nb
 - [x] evaluation scripts
 - [x] training image mask/tile creation nb
+
+This project is tested with BrowserStack
